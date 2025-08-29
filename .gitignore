@@ -1,0 +1,11 @@
+# Ignore Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# Ignore local data
+Data/
+*.csv
+*.parquet
+*.xlsx
+
+# Ignore virtual environments
+.venv/
